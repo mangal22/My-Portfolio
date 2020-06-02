@@ -1,3 +1,7 @@
+body{
+  color: floralwhite;
+    background-color: #333;
+}
 #welcome-section{
   display:flex;
   height:100vh;
