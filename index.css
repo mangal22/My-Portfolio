@@ -1,0 +1,29 @@
+#welcome-section{
+  display:flex;
+  height:100vh;
+  justify-content:center;
+  align-items:center;
+}
+#aboutMe{
+  text-align:center;
+}
+#projects{
+  display:grid;
+  grid-template-columns:30% 30% 30%;
+    align-items:center;
+  justify-content:center;
+}
+#project-header{
+  text-align:center;
+  font-size:40px;
+  padding:50px;
+}
+#project-desc{
+  text-align:center;
+  font-size:25px;
+}
+footer{
+  margin:50px;
+  text-align:center;
+  font-size:40px;
+}
